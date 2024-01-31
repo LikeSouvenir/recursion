@@ -1,0 +1,7 @@
+C:\Users\HP\Dropbox\Мой ПК (LAPTOP-CH30KGJF)\Desktop\Практика\Рекурсия\рекурсии\bin\Debug\рекурсии.exe.config
+C:\Users\HP\Dropbox\Мой ПК (LAPTOP-CH30KGJF)\Desktop\Практика\Рекурсия\рекурсии\bin\Debug\рекурсии.exe
+C:\Users\HP\Dropbox\Мой ПК (LAPTOP-CH30KGJF)\Desktop\Практика\Рекурсия\рекурсии\bin\Debug\рекурсии.pdb
+C:\Users\HP\Dropbox\Мой ПК (LAPTOP-CH30KGJF)\Desktop\Практика\Рекурсия\рекурсии\obj\Debug\рекурсии.csproj.AssemblyReference.cache
+C:\Users\HP\Dropbox\Мой ПК (LAPTOP-CH30KGJF)\Desktop\Практика\Рекурсия\рекурсии\obj\Debug\рекурсии.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\Мой ПК (LAPTOP-CH30KGJF)\Desktop\Практика\Рекурсия\рекурсии\obj\Debug\рекурсии.exe
+C:\Users\HP\Dropbox\Мой ПК (LAPTOP-CH30KGJF)\Desktop\Практика\Рекурсия\рекурсии\obj\Debug\рекурсии.pdb
